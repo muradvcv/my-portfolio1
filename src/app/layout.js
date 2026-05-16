@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Rokibul Portfolio",
+  title: "Md Khalekuzzaman",
   description: "Modern Portfolio Website",
 };
 
