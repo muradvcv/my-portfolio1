@@ -8,7 +8,7 @@ const projectsData = [
     title: "Job tracker",
     description:
       "A simple job tracking system to manage applications and track job progress efficiently.",
-    image: "/projects/project1.png",
+    image: "/projects/project1.PNG",
     live: "https://muradvcv.github.io/PH-B13-AS-4/",
     github: "https://github.com/muradvcv/PH-B13-AS-4",
     tech: ["js", "Tailwind", "html"],
@@ -17,7 +17,7 @@ const projectsData = [
     title: "English janala",
     description:
       "An interactive English learning platform designed to improve vocabulary and grammar skills.",
-    image: "/projects/project2.png",
+    image: "/projects/project2.PNG",
     live: "https://muradvcv.github.io/english-janala/",
     github: "https://github.com/muradvcv/english-janala",
     tech: ["js", "Tailwind", "html"],
@@ -26,7 +26,7 @@ const projectsData = [
     title: "GitHub Issues Tracker",
     description:
       "A GitHub-style issue tracking system to create, manage, and monitor development tasks.",
-    image: "/projects/project3.png",
+    image: "/projects/project3.PNG",
     live: "https://muradvcv.github.io/B13-AS-05/",
     github: "https://github.com/muradvcv/B13-AS-05",
     tech: ["Next.js", "Firebase", "Tailwind"],
@@ -35,7 +35,7 @@ const projectsData = [
     title: "KeenKeeper",
     description:
       "A social connection app to help you keep track of important friends and relationships.",
-    image: "/projects/project4.png",
+    image: "/projects/project4.PNG",
     live: "https://keen-keeper-one-kappa.vercel.app/",
     github: "https://github.com/muradvcv/B13-AS-06",
     tech: ["React", "Tailwind", "html"],
@@ -44,7 +44,7 @@ const projectsData = [
     title: "Online-Book-Borrowing",
     description:
       "A digital library system for discovering, borrowing, and managing books online easily.",
-    image: "/projects/project5.png",
+    image: "/projects/project5.PNG",
     live: "https://online-book-borrowing-platform-one.vercel.app/",
     github: "https://github.com/muradvcv/Online-Book-Borrowing-Platform",
     tech: ["Next.js", "Express", "Tailwind", "mongodb"],
@@ -53,7 +53,7 @@ const projectsData = [
     title: "Tiles Gallery",
     description:
       "A modern tile showcase gallery displaying beautiful tile designs with smooth browsing experience.",
-    image: "/projects/project6.png",
+    image: "/projects/project6.PNG",
     live: "https://tiles-gallery-zeta-one.vercel.app/",
     github: "https://github.com/muradvcv/tiles-gallery",
     tech: ["Next.js", "Express", "Tailwind", "mongodb"],
