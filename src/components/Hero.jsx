@@ -16,6 +16,7 @@ import {
   SiTailwindcss,
 } from "react-icons/si";
 import { HiOutlineHandRaised } from "react-icons/hi2";
+import { CiInboxIn } from "react-icons/ci";
 
 const roles = [
   "Full Stack Developer",
@@ -132,14 +133,14 @@ const Hero = () => {
             >
               Explore Work →
             </a>
-
             <a
-              href="/resume.pdf"
-              className="inline-flex items-center justify-center px-8 py-4 rounded-2xl border border-purple-500/40 text-purple-400 hover:bg-purple-500/10 hover:scale-105 transition-all duration-300"
+              href="#contact"
+              className="px-8 py-4 rounded-2xl outline outline-[#016086] hover:scale-105 transition-all duration-300 shadow-[0_0_35px_rgba(168,85,247,0.35)] text-center flex gap-2 items-center justify-center"
             >
-              Resume
-              <MdDownload className="text-xl ml-2 text-purple-400" />
+              Massage <span className="text-2xl text-[#06b4f8]"><CiInboxIn /></span>
             </a>
+
+           
 
           </div>
 
