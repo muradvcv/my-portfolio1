@@ -3,7 +3,6 @@
 import Me from "@/app/assets/me.png";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import { MdDownload } from "react-icons/md";
 import { motion } from "framer-motion";
 
 import {
@@ -20,8 +19,8 @@ import { CiInboxIn } from "react-icons/ci";
 
 const roles = [
   "Full Stack Developer",
-  "Problem Solver",
-  "Prompt Specialist",
+  "Frontend Developer",
+  "Web Developer,",
 ];
 
 // OFFICIAL ICONS + COLORS
